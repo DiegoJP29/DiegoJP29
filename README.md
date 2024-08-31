@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-mauricio-27a64a2a5/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_diegosantos12/?next=%2F)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoJP29&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJP29&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
